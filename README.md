@@ -4,9 +4,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;React+Next+js;WEB+%26+Designer;UI/UX+Designer" alt="Typing SVG" />
 </div>
 
-## From Gaming to Coding: 
+## From Gaming to Coding
 
-You might wonder why my name is **Jithin Roy** but my GitHub handle is **RICK-OP**. Here's the story:
+I began coding as **RICK-OP**, my gaming alias. Today I use **jithinroyy** as my GitHub handle.
 
 **RICK-OP** started as my gaming alias - a name I used across various gaming platforms and communities. What began as simple game file tweaking and small FiveM script development slowly evolved into something much bigger. Through modifying game files, creating custom scripts, and automating in-game processes, I discovered my passion for development.
 As I dove deeper into scripting, my gaming handle naturally became my developer identity.
@@ -24,8 +24,8 @@ I'm a **Full-Stack Developer** with 5+ years of experience building comprehensiv
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rick-OP&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rick-OP&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jithinroyy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jithinroyy&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
 
 ---
@@ -44,7 +44,7 @@ I'm a **Full-Stack Developer** with 5+ years of experience building comprehensiv
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Rick-OP&style=for-the-badge&color=00D9FF" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=jithinroyy&style=for-the-badge&color=00D9FF" alt="Profile Views" />
 </div>
 
 ---
